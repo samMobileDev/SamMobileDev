@@ -64,3 +64,5 @@ Weather forecasting application using real-time API data.
 
 - Telegram: https://t.me/sam_nnnn  
 - LinkedIn: https://www.linkedin.com/in/sammobiledev/
+- Rocketpunch: https://mobiledev.rockets.app
+- Wanted: https://social.wanted.co.kr//community/profile/aneqgfB5wqgAMfmpxrbVV8?utm_source=wanted&utm_medium=share
