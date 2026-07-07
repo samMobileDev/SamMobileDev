@@ -49,6 +49,9 @@ Movie browsing application with API integration and modern UI.
 ### 🌤 WeatherApp
 Weather forecasting application using real-time API data.
 
+### RecipeBox
+Discover, search, and save recipes with a modern Android app built using Kotlin, Room, Retrofit, and Material Design.
+
 ---
 
 ## 🎯 Current Focus
@@ -66,3 +69,4 @@ Weather forecasting application using real-time API data.
 - LinkedIn: https://www.linkedin.com/in/sammobiledev/
 - Rocketpunch: https://mobiledev.rockets.app
 - Wanted: https://social.wanted.co.kr//community/profile/aneqgfB5wqgAMfmpxrbVV8?utm_source=wanted&utm_medium=share
+- Freelance Upwork: https://www.upwork.com/freelancers/~01c8c71fe24d7dd8a0?mp_source=share
