@@ -86,3 +86,4 @@ A weather application providing real-time weather conditions and forecasts with 
 - RocketPunch: https://mobiledev.rockets.app
 - Wanted: https://social.wanted.co.kr/community/profile/aneqgfB5wqgAMfmpxrbVV8
 - Upwork: https://www.upwork.com/freelancers/~01c8c71fe24d7dd8a0
+- Email: sammobiledevelopeer@gmail.com
