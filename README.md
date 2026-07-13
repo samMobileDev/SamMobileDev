@@ -1,72 +1,88 @@
-# 👋 Hi, I'm Sam
+# 👋 Hi, I'm Samar (SAM)
 
-Android Developer from Uzbekistan 🇺🇿  
-I build modern Android applications using Kotlin and Jetpack Compose.
+Android Developer from Uzbekistan 🇺🇿
 
----
-
-## 🧠 About Me
-
-- I’ve been learning Android development for a while and continuously improving my skills through practice
-- In recent months, I’ve been focusing more on building real projects and improving my GitHub portfolio
-- I work on turning ideas and tasks into working Android applications, no matter how complex they are
-- I focus on understanding how real applications are built, not just tutorials
-- I’m actively preparing for my first Android Developer role
+I develop modern Android applications using Kotlin,MVVM architecture, focusing on scalable, maintainable, and user-friendly mobile solutions.
 
 ---
 
-## 📚 What I have experience with
+## 👨‍💻 About Me
 
-- Android development fundamentals
-- UI/UX principles for mobile applications
-- Working with APIs (Retrofit)
-- Local storage (Room database)
-- Git & GitHub for version control
-- Kotlin programming language
-- Asynchronous programming (Coroutines)
-- Jetpack Compose for UI development
+- Android Developer specializing in modern Android development
+- Experienced in building complete Android applications from idea to implementation
+- Passionate about creating intuitive, high-performance mobile applications
+- Strong focus on clean architecture, maintainable code, and modern development practices
+- Open to remote, startup, and full-time Android Developer opportunities
 
 ---
 
-## 🛠 Main Tech Stack
+## 🛠 Tech Stack
 
 - Kotlin
 - Jetpack Compose
+- MVVM
 - Coroutines & Flow
 - Retrofit
 - Room
-- Git / GitHub
 - Android SDK
-- API
+- REST API
+- Material Design 3
+- XML
+- Git & GitHub
 
 ---
 
 ## 🚀 Projects
 
-### 🎬 MovieBox
-Movie browsing application with API integration and modern UI.
-
-### 🌤 WeatherApp
-Weather forecasting application using real-time API data.
-
-### RecipeBox
-Discover, search, and save recipes with a modern Android app built using Kotlin, Room, Retrofit, and Material Design.
+### 🗺 TouristUzBox *(In Progress)*
+A travel platform for exploring Uzbekistan, featuring attractions, restaurants, hotels, local cuisine, and travel information in a modern Android application.
 
 ---
 
-## 🎯 Current Focus
+### 🍽 RecipeBox
 
-- Improving Android development skills through real projects
-- Building and refining portfolio projects on GitHub
-- Learning better app architecture and clean code practices
-- Preparing to solve real-world development tasks independently
+A modern recipe application that helps users discover unique recipes through personalized recommendations, search by recipe name, or find meals based on ingredients already available at home. Favorite recipes can be saved locally using Room for offline access.
+
+**Features**
+- Personalized recipe recommendations
+- Recipe search
+- Ingredient-based recipe finder
+- Favorites with Room database
+- Modern Material Design UI
+
+**Tech:** Kotlin • Room • Retrofit • Coroutines
+
+---
+
+### 🎬 MovieBox
+
+A modern movie application with real-time API integration, movie search, trending content, and detailed movie information.
+
+**Main Tech:** Kotlin • Room • Retrofit • Coroutines
+
+---
+
+### 🌤 WeatherBox
+
+A weather application providing real-time weather conditions and forecasts with a clean, responsive interface.
+
+**Main Tech:** Kotlin • LifecycleScope • Retrofit
+
+---
+
+## 💼 Looking For
+
+- Android Developer
+- Remote Android Developer
+- Startup Opportunities
+- Freelance Android Projects
 
 ---
 
 ## 📫 Contact
 
-- Telegram: https://t.me/sam_nnnn  
+- Telegram: https://t.me/sam_nnnn
 - LinkedIn: https://www.linkedin.com/in/sammobiledev/
-- Rocketpunch: https://mobiledev.rockets.app
-- Wanted: https://social.wanted.co.kr//community/profile/aneqgfB5wqgAMfmpxrbVV8?utm_source=wanted&utm_medium=share
-- Freelance Upwork: https://www.upwork.com/freelancers/~01c8c71fe24d7dd8a0?mp_source=share
+- RocketPunch: https://mobiledev.rockets.app
+- Wanted: https://social.wanted.co.kr/community/profile/aneqgfB5wqgAMfmpxrbVV8
+- Upwork: https://www.upwork.com/freelancers/~01c8c71fe24d7dd8a0
