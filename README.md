@@ -44,8 +44,7 @@ I am actively looking for **Junior Android Developer**, **Internship**, or **Rem
 * **Key Features:**
   * Interactive exploration of tourist spots, historical places, and local restaurants.
   * Real-time backend integration using **Supabase** for dynamic content updates.
-  * Responsive, modern UI built entirely with **Jetpack Compose**.
-* 🔗 [View Repository](#) *(Add link)*
+  * Responsive, modern UI built entirely.
 
 ---
 
@@ -56,7 +55,7 @@ I am actively looking for **Junior Android Developer**, **Internship**, or **Rem
   * Advanced recipe search by keywords and individual ingredients.
   * Offline-first architecture using **Room** to store favorite recipes locally.
   * Asynchronous data loading and error handling via **Kotlin Coroutines & Flow**.
-* 🔗 [View Repository](#) *(Add link)*
+* 🔗 [View Repository](#) *(https://github.com/samMobileDev/RecipeBox)*
 
 ---
 
@@ -67,7 +66,7 @@ I am actively looking for **Junior Android Developer**, **Internship**, or **Rem
   * Real-time movie search and trending feeds integration via REST API.
   * Clean UI showcasing movie details, ratings, and descriptions.
   * Local caching mechanisms for enhanced offline performance.
-* 🔗 [View Repository](#) *(Add link)*
+* 🔗 [View Repository](#) *(https://github.com/samMobileDev/MovieBox)*
 
 ---
 
@@ -78,7 +77,7 @@ I am actively looking for **Junior Android Developer**, **Internship**, or **Rem
   * Real-time weather forecasting based on user location or manual city search.
   * Clean, adaptive UI reflecting current weather conditions.
   * Optimized network requests with proper error and loading state management.
-* 🔗 [View Repository](#) *(Add link)*
+* 🔗 [View Repository](#) *(https://github.com/samMobileDev/WeatherApp)*
 
 ---
 
