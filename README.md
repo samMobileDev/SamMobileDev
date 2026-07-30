@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Samar Muradov
-### 📱 Android Developer | Kotlin | Jetpack Compose
+# 👋 Hi, I'm Samar Muradov(Sam)
+### 📱 Android Developer | Kotlin |
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sam_nnnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammobiledev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammobiledevelopeer@gmail.com)
 
-*Building modern, scalable, and user-centric Android applications with Kotlin and Jetpack Compose.*
+*Building modern, scalable, and user-centric Android applications with Kotlin.*
 
 </div>
 
@@ -55,7 +55,7 @@ I am actively looking for **Junior Android Developer**, **Internship**, or **Rem
   * Advanced recipe search by keywords and individual ingredients.
   * Offline-first architecture using **Room** to store favorite recipes locally.
   * Asynchronous data loading and error handling via **Kotlin Coroutines & Flow**.
-* 🔗 [View Repository](#) *(https://github.com/samMobileDev/RecipeBox)*
+* 🔗 [View Repository](https://github.com/samMobileDev/RecipeBox)
 
 ---
 
@@ -66,7 +66,7 @@ I am actively looking for **Junior Android Developer**, **Internship**, or **Rem
   * Real-time movie search and trending feeds integration via REST API.
   * Clean UI showcasing movie details, ratings, and descriptions.
   * Local caching mechanisms for enhanced offline performance.
-* 🔗 [View Repository](#) *(https://github.com/samMobileDev/MovieBox)*
+* 🔗 [View Repository](https://github.com/samMobileDev/MovieBox)
 
 ---
 
@@ -77,7 +77,7 @@ I am actively looking for **Junior Android Developer**, **Internship**, or **Rem
   * Real-time weather forecasting based on user location or manual city search.
   * Clean, adaptive UI reflecting current weather conditions.
   * Optimized network requests with proper error and loading state management.
-* 🔗 [View Repository](#) *(https://github.com/samMobileDev/WeatherApp)*
+* 🔗 [View Repository](https://github.com/samMobileDev/WeatherApp)
 
 ---
 
