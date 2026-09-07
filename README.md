@@ -38,13 +38,15 @@ I am actively looking for **Junior Android Developer**, **Internship**, or **Rem
 
 > 💡 *Tip: Click on any project to explore the source code and implementation details.*
 
-### 🗺 TouristUzBox — Travel & Tourism App *(In Development)*
+### 🗺 TouristUzBox — Travel & Tourism App
 *A modern discovery app for exploring Uzbekistan's cultural heritage, attractions, and local cuisine.*
 * **Tech Stack:** Kotlin, Supabase, Coroutines, Flow
 * **Key Features:**
-  * Interactive exploration of tourist spots, historical places, and local restaurants.
-  * Real-time backend integration using **Supabase** for dynamic content updates.
-  * Responsive, modern UI built entirely.
+* Explore Uzbekistan — discover historical landmarks, cultural heritage sites, tourist attractions, restaurants, and unique destinations across the country.
+* Interactive Discovery — browse destinations through an intuitive exploration experience with structured categories and location-based information.
+* Smart Search & Filtering — quickly find places based on destination type, category, or user preferences.
+* Location-Aware Experience — use geographical data to provide relevant attractions and places around the user.
+*  🔗 [View Repository](https://github.com/samMobileDev/TouristUzBox)
 
 ---
 
