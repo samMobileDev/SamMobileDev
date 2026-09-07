@@ -17,7 +17,7 @@
 
 I am an entry-level Android developer based in Uzbekistan 🇺🇿. I specialize in modern Android development practices, writing clean and maintainable code, and implementing robust architectures like **MVVM** and **Clean Architecture**. 
 
-I am actively looking for **Junior Android Developer**, **Internship**, or **Remote** opportunities where I can contribute, learn from experienced mentors, and grow professionally.
+I am actively looking for **Android Developer**, **Internship**, or **Remote** opportunities where I can contribute, learn from experienced mentors, and grow professionally.
 
 ---
 
